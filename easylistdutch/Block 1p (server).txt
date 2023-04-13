@@ -19,3 +19,5 @@
 ||content2.zoom.nl^
 ||mooieplaatjes.bierdopje.com^
 ||kechtube.com^$popunder
+||freewheelads.prd1.talpatvcdn.nl^
+||talpaads.prd1.talpatvcdn.nl^
