@@ -23,7 +23,7 @@ citaten.net#@##bottom-ad
 hardware.info##^script:has-text(Inject=!)
 @@*&ad$xhr,domain=kijk.nl
 @@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
-||*.prd1.talpatvcdn.nl$domain=kijk.nl
+||prd1.talpatvcdn.nl^$domain=kijk.nl
 *$image,domain=kijk.nl,redirect-rule=1x1.gif
 @@||looopings.nl/peel1.js
 meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
